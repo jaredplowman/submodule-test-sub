@@ -1,3 +1,5 @@
 Fifth commit (fixed bug)
 
 This one is for the demo! :D
+
+Trying to figure out why Rick writes such bad code
